@@ -1,0 +1,7 @@
+name: SuperStaffChat
+version: '${project.version}'
+main: uk.jamieisgeek.superstaffchat.SuperStaffChat
+api-version: 1.19
+authors: [ JamieIsGeek ]
+description: A simple staff chat plugin with discord integration
+website: https://jamieisgeek.uk
